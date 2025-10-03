@@ -1,0 +1,13 @@
+all about abstraction in java
+
+abstraction is a pillar of oops in which we hide the data and show only useful to client or users
+if you want initialize a class as abstract you have to put abstract keyword in place of public
+abstract class can provide the abstract methods so that you can easily implement it to other classes by extending it
+it solves the problem of multiple inheritance problem in java as it only provide the method so its subclasses can override
+it by its own implementations
+we can put instance variable with access modifiers
+we can also have concerete methods in abstract class
+we can not create object of abstract class
+we can not create static method in abstract class
+abstract class can have have constructors getter setter but constructors cannot assigned with final abstract keywords
+

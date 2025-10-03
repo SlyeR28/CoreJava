@@ -1,0 +1,6 @@
+interface are blueprint for class
+they provides methods that can be implemented by class by implements keyword
+if we declare any variable in interfaces they by nature are final and static
+in interface after java 8 we can have static methods but they only used by interface name
+if we want to add some methods in interface they can be done by default keyword
+multiple  inheritance  problem is solved by interface not purely but partially
