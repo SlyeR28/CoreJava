@@ -1,3 +1,5 @@
+package ArrayList;
+
 public class cloneMethod implements Cloneable{
     String name;
     int age;

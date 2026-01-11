@@ -21,8 +21,10 @@
       <module fileurl="file://$PROJECT_DIR$/OOPS/Abstraction/PaymentMethodAbstraction/PaymentMethodAbstraction.iml" filepath="$PROJECT_DIR$/OOPS/Abstraction/PaymentMethodAbstraction/PaymentMethodAbstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS/Polymorpishm/Polymorpishm.iml" filepath="$PROJECT_DIR$/OOPS/Polymorpishm/Polymorpishm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Animals/Reptile/Reptile.iml" filepath="$PROJECT_DIR$/Animals/Reptile/Reptile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamQuestions/StreamQuestions.iml" filepath="$PROJECT_DIR$/StreamQuestions/StreamQuestions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stringmethods/Stringmethods.iml" filepath="$PROJECT_DIR$/Stringmethods/Stringmethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/Synchroization/Synchroization.iml" filepath="$PROJECT_DIR$/Threads/Synchroization/Synchroization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompleteMultithreading/Syncronizsation/Syncronizsation.iml" filepath="$PROJECT_DIR$/CompleteMultithreading/Syncronizsation/Syncronizsation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/userinput/TrenaryOperator/TrenaryOperator.iml" filepath="$PROJECT_DIR$/userinput/TrenaryOperator/TrenaryOperator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Varibles/Varibles.iml" filepath="$PROJECT_DIR$/Varibles/Varibles.iml" />
@@ -36,6 +38,7 @@
       <module fileurl="file://$PROJECT_DIR$/projcets/projcets.iml" filepath="$PROJECT_DIR$/projcets/projcets.iml" />
       <module fileurl="file://$PROJECT_DIR$/userinput/statementsandloops/statementsandloops.iml" filepath="$PROJECT_DIR$/userinput/statementsandloops/statementsandloops.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS/introduction/staticAndNonStatic/staticAndNonStatic.iml" filepath="$PROJECT_DIR$/OOPS/introduction/staticAndNonStatic/staticAndNonStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompleteMultithreading/threads/threads.iml" filepath="$PROJECT_DIR$/CompleteMultithreading/threads/threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/userinput/userinput.iml" filepath="$PROJECT_DIR$/userinput/userinput.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS/vechiles/vechiles.iml" filepath="$PROJECT_DIR$/OOPS/vechiles/vechiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/userinput/Loops/while/while.iml" filepath="$PROJECT_DIR$/userinput/Loops/while/while.iml" />

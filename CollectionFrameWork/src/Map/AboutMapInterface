@@ -1,0 +1,10 @@
+represesnts a collections of key-value pair
+no duplicates keys are allowed but values can be duplicated
+only one key can null but in different impletes like hashmap and linked hashmap
+
+if you re using the hashmap there you dont have garauntee of intersertion order
+in hashtable you cant directly use the sort method b/c of hashmap is unordered
+but you use sort by converting the hashmap to list it can easily sort them
+
+  // Convert to list of entries
+        List<Map.Entry<String, Integer>> list = new ArrayList<>(map.entrySet());
